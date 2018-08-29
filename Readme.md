@@ -212,3 +212,13 @@ Conoceremos el feature de Cards de Bootstrap. Para más información consulta: h
 Documentación y ejemplos de insignias, nuestro pequeño componente de conteo y etiquetado.
 https://getbootstrap.com/docs/4.1/components/badge/
 
+Clase 14
+## Pastillas de texto
+Se acomodaron y agregaron las famosas pastillas en el index
+
+Clase 15
+## Agregando un contenedor de ancho completo
+https://getbootstrap.com/docs/4.1/layout/overview/#containers
+Contenedor fluido
+<--Lugar y fecha-->
+Aprendimos a utilizar contenedor de ancho fluido y seguimos trabajando con la grilla para diferentes dispositivos

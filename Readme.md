@@ -157,5 +157,30 @@ Practica de grilla de bootstrap
 ## El header de nuestro sitio
 Conocemos el componente de Navbar de Bootstrap para crear el encabezado de nuestro website. Conoce más de su manejo en https://getbootstrap.com/docs/4.1/components/navbar/ 
 
+### ¿Qué colocar dentro del Navbar?
+- **.navbar-brand** para el nombre de tu compañía,
+producto o proyecto
+- **.navbar-nav** para un menú de navegación (que puede
+tener sub-menúes)
+- **.navbar-toggler** para usar con el plugin para colapsar
+contenido
+- **.form-inline** para incluir formularios
+- **.navbar-text** para incluir texto centrado verticalmente
+- **.collapse.navbar-collapse** para agrupar contenido
+que se va a colapsar
+
 Se agrega carpeta "assets/images"
 - platzi-logo.png
+
+## Creando carausel de imagenes
+
+El carousel nos permite ver un conjunto de imágenes y mostrarlas de manera automática. Encuentra más información en https://getbootstrap.com/docs/4.1/components/carousel/
+
+- Hay que agregar la clase **.active** a
+alguno de los slides
+- Asegurarse de que los controles e
+indicadores tengan un atributo
+elements **data-target** que coincida
+con el id del elemento **.carousel**.
+
+Se agrego img para vista

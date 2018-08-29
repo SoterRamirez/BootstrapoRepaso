@@ -154,3 +154,8 @@ https://getbootstrap.com/docs/4.1/components/card/#header-and-footer
 
 Practica de grilla de bootstrap
 
+## El header de nuestro sitio
+Conocemos el componente de Navbar de Bootstrap para crear el encabezado de nuestro website. Conoce más de su manejo en https://getbootstrap.com/docs/4.1/components/navbar/ 
+
+Se agrega carpeta "assets/images"
+- platzi-logo.png

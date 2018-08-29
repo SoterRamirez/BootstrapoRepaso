@@ -198,3 +198,10 @@ clase 12
 Encuentra más información de los botones en https://getbootstrap.com/docs/4.1/components/buttons/
 
 Se pone dos formas de poner boton por la etiqueta a o por button con sus respectivas clases
+
+Clase 12 
+## Las cards de Bootstrap 4
+
+Conoceremos el feature de Cards de Bootstrap. Para más información consulta: https://getbootstrap.com/docs/4.1/components/card/. 
+ 
+ <--conferensistas-->

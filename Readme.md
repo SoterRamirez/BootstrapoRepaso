@@ -137,4 +137,8 @@ Se agrega un estilo arriba de la etiqueta title
             border: 1px solid rebeccapurple; //borde de un 1px y color como morado
         }
     </style>
-    ```
+```
+## Reto : Las grillas de Bootstrap
+retogrilla.html
+retogrilla1.html
+retogrilla2.html

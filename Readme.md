@@ -65,3 +65,76 @@ Al abrir la pagina nos dirigimos a el boton **Get started**, pinchamos y nos dir
   </body>
 </html>
 ```
+
+Clase 6
+
+## La grilla de Bootstrap
+
+### Containers 
+
+Los contenedores son el elemento de diseño más básico en Bootstrap y son **necesarios al usar nuestro sistema de grillas predeterminado** . Elija entre un contenedor receptivo de ancho fijo (es decir, sus max-widthcambios en cada punto de interrupción) o ancho de fluido (lo que significa que es 100%amplio todo el tiempo).
+
+Mientras que los contenedores se pueden anidar, la mayoría de los diseños no requieren un contenedor anidado.
+
+- conteiner
+```
+<div class="container">
+  <!-- Nuestro contenido acá -->
+</div>
+```
+- .container-fluid
+
+Se usa .container-fluidpara un contenedor de ancho completo, que abarca todo el ancho de la ventana gráfica.
+```
+<div class="container-fluid">
+  <!-- Nuestro contenido acá -->
+</div>
+```
+### Grid
+El sistema de grillas de Bootstrap usa una serie de contenedores, filas y columnas para diseñar y alinear el contenido. Está construido con flexbox y responde completamente. A continuación se muestra un ejemplo y una mirada en profundidad sobre cómo se junta la grilla.
+```
+<div class="container">
+  <div class="row">
+    <div class="col">
+      Una columna aquí
+    </div>
+    <div class="col">
+      Una columna aquí
+    </div>
+    <div class="col">
+      Una columna aquí
+    </div>
+  </div>
+</div>
+```
+El ejemplo anterior crea tres columnas de ancho igual en dispositivos pequeños, medianos, grandes y extra grandes usando nuestras clases de grillas predefinidas. Esas columnas están centradas en la página con el padre __.container__.
+```
+<div class="container">
+  <div class="row">
+    <div class="col">
+      Una columna aquí
+    </div>
+    <div class="col">
+      Una columna aquí
+</div>
+</div>
+    <div class="col">
+      Una columna aquí
+    </div>
+    <div class="col">
+      Una columna aquí
+    </div>
+    <div class="col">
+      Una columna aquí
+    </div>
+  </div>
+</div>
+```
+Se agrega un estilo arriba de la etiqueta title
+```
+<style>
+        .col { //columna
+            border: 1px solid rebeccapurple; //borde de un 1px y color como morado
+        }
+    </style>
+    ```

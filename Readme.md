@@ -139,6 +139,18 @@ Se agrega un estilo arriba de la etiqueta title
     </style>
 ```
 ## Reto : Las grillas de Bootstrap
-retogrilla.html
-retogrilla1.html
-retogrilla2.html
+- retogrilla.html
+- retogrilla1.html
+- retogrilla2.html
+
+Clase 9
+## El footer
+Vamos a crear el footer de nuestro website. 
+Se creo
+- index.css
+
+Se añadio la etiqueta footer 
+https://getbootstrap.com/docs/4.1/components/card/#header-and-footer
+
+Practica de grilla de bootstrap
+

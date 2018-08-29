@@ -172,6 +172,7 @@ que se va a colapsar
 Se agrega carpeta "assets/images"
 - platzi-logo.png
 
+Clase 10
 ## Creando carausel de imagenes
 
 El carousel nos permite ver un conjunto de imágenes y mostrarlas de manera automática. Encuentra más información en https://getbootstrap.com/docs/4.1/components/carousel/
@@ -184,3 +185,10 @@ elements **data-target** que coincida
 con el id del elemento **.carousel**.
 
 Se agrego img para vista
+
+Clase 11
+## Agregando texto informativo del evento
+
+Ahora vamos a incluir un texto informativo sobre nuestro carousel de imágenes. Encuentra más información de los botones en https://getbootstrap.com/docs/4.1/components/buttons/
+
+Cambiamos el id __CarouselExampleFade por carousel__  y agregamos al final de esta clase un nuveo div con la clase __overly__ 

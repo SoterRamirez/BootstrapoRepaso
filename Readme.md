@@ -205,3 +205,10 @@ Clase 12
 Conoceremos el feature de Cards de Bootstrap. Para más información consulta: https://getbootstrap.com/docs/4.1/components/card/. 
  
  <--conferensistas-->
+
+ Clase 13
+ ## Pastillas de Texto
+ Insignias
+Documentación y ejemplos de insignias, nuestro pequeño componente de conteo y etiquetado.
+https://getbootstrap.com/docs/4.1/components/badge/
+

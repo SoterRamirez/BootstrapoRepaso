@@ -1,6 +1,13 @@
 .text-soter{
     color: #97c93e !important
 }
+.btn-soter{
+    background-color: #97c93e;
+    color: white;
+}
+.btn-soter:hover{
+    background-color: #81ac37
+}
 #header img{
     width: 80px;
 }

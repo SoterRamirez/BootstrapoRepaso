@@ -189,6 +189,12 @@ Se agrego img para vista
 Clase 11
 ## Agregando texto informativo del evento
 
-Ahora vamos a incluir un texto informativo sobre nuestro carousel de imágenes. Encuentra más información de los botones en https://getbootstrap.com/docs/4.1/components/buttons/
+Ahora vamos a incluir un texto informativo sobre nuestro carousel de imágenes.
 
 Cambiamos el id __CarouselExampleFade por carousel__  y agregamos al final de esta clase un nuveo div con la clase __overly__ 
+
+clase 12
+## Agregando botones
+Encuentra más información de los botones en https://getbootstrap.com/docs/4.1/components/buttons/
+
+Se pone dos formas de poner boton por la etiqueta a o por button con sus respectivas clases

@@ -226,4 +226,12 @@ Aprendimos a utilizar contenedor de ancho fluido y seguimos trabajando con la gr
 Clase16
 ## Formulario de bootstrap 4
 https://getbootstrap.com/docs/4.1/components/forms/
-<!--Conviertete en Conferensistas-->
+<--Conviertete en Conferensistas-->
+
+clase 17
+## Agregando un tooltip
+En esta clase aprenderemos a incluir abreviaciones, que es un componente que le permite al visitante de tu página tener una definición inmediata de una palabra. Para más información checa este website: https://getbootstrap.com/docs/4.1/content/typography/#abbreviations y también agregaremos tooltips un plugin de jQuery que ya viene incluído en Bootstrap: https://getbootstrap.com/docs/4.1/components/tooltips/
+Reto: Incorpora otro tooltip en tu sitio.
+```
+<abbr title="attribute">attr</abbr>
+```

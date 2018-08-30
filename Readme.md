@@ -226,6 +226,7 @@ Aprendimos a utilizar contenedor de ancho fluido y seguimos trabajando con la gr
 Clase16
 ## Formulario de bootstrap 4
 https://getbootstrap.com/docs/4.1/components/forms/
+
 <--Conviertete en Conferensistas-->
 
 clase 17
@@ -240,3 +241,13 @@ Reto: Incorpora otro tooltip en tu sitio.
 clase 18
 ## Scrollspy: Conociendo la ubicación del usuario en el header
 El scrollspy le permite al usuario conocer la posición dentro del sitio. Revisa más sobre este componente en: https://getbootstrap.com/docs/4.1/components/scrollspy/
+
+
+clase 19
+## Agregando un modal para comprar tickets
+En esta clase aprenderemos sobre los modals, que son básicamente mostrar un mensaje en una ventana emergente. Conoce más sobre los modals aquí: https://getbootstrap.com/docs/4.1/components/modal/
+
+ojo con esto
+````
+data-toggle="modal" data-target="#modalCompra"
+```

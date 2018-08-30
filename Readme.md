@@ -251,3 +251,11 @@ ojo con esto
 ````
 data-toggle="modal" data-target="#modalCompra"
 ```
+
+Clase 20
+## Agregar formulario de compra
+
+se agrega formulario y un alert!
+
+### cargar modal dinamico con php y mysql 
+https://programacion.net/articulo/como_cargar_contenido_dinamico_en_un_modal_de_bootstrap_1867

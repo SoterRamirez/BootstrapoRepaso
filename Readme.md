@@ -222,3 +222,8 @@ https://getbootstrap.com/docs/4.1/layout/overview/#containers
 Contenedor fluido
 <--Lugar y fecha-->
 Aprendimos a utilizar contenedor de ancho fluido y seguimos trabajando con la grilla para diferentes dispositivos
+
+Clase16
+## Formulario de bootstrap 4
+https://getbootstrap.com/docs/4.1/components/forms/
+<!--Conviertete en Conferensistas-->

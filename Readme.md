@@ -235,3 +235,8 @@ Reto: Incorpora otro tooltip en tu sitio.
 ```
 <abbr title="attribute">attr</abbr>
 ```
+
+
+clase 18
+## Scrollspy: Conociendo la ubicación del usuario en el header
+El scrollspy le permite al usuario conocer la posición dentro del sitio. Revisa más sobre este componente en: https://getbootstrap.com/docs/4.1/components/scrollspy/
